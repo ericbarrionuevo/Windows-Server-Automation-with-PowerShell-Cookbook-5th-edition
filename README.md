@@ -61,3 +61,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 Thomas Lee is a consultant/trainer/writer based in the UK and has been in the IT business since the late 1960s. After graduating from Carnegie Mellon University, Thomas joined ComShare where he was a systems programmer building the Commander II time-sharing operating system, a forerunner of today's cloud computing paradigm. In the mid-1970s, he moved to ICL to work on the VME/K operating system. After a sabbatical in 1980/81, he joined Accenture, leaving in 1988 to run his own consulting and training business, which is still active today.
 
 Thomas holds numerous Microsoft certifications, including MCSE (one of the first in the world) and later versions, MCT (25 years), and was awarded Microsoft's MVP award 17 times.
+
+- [WindowsServerAutomation_part1](https://packt.link/SecNet](https://tech.deriv.com/windows-server-automation-part-1/))
+
+- [WindowsServerAutomation_part2]([https://packt.link/SecNet](https://tech.deriv.com/windows-server-automation-part-1/)](https://tech.deriv.com/windows-server-automation-part-2/))
